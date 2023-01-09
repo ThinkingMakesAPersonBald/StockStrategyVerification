@@ -1,8 +1,7 @@
 import os
 
 def main():
-    print('create main function success !')
-    pass
+    print('main')
 
 if __name__ == '__main__':
     main()
